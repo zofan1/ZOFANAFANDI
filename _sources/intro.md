@@ -3,5 +3,6 @@
 
 SELAMAT DATANG PADA WEBSITE SAYA
 
+<img scr="ZOFAN.png">
 ```{tableofcontents}
 ```
